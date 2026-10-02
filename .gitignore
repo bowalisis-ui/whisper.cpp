@@ -8,6 +8,7 @@
 .vs/
 .vscode/
 .DS_Store
+desktop.ini
 .vimspector.json
 /CMakeSettings.json
 /CMakeUserPresets.json
@@ -17,6 +18,9 @@ build/
 build-*/
 build_*/
 tmp/
+
+# Local installer dependencies
+/SDL2/
 
 # SPM
 .build/
